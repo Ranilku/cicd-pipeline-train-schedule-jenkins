@@ -15,3 +15,4 @@ You can run the app with Anil's Automation:
 Once it is running, you can access it in a browser at [http://localhost:3000](http://localhost:3000)
 
 Editing my file
+This is to test automated build
